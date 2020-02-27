@@ -1,0 +1,45 @@
+      1 commit f4d2546bc271380f87f36dc36f4b2228a6b12e65
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 10:18:32 2020 +0530
+      1 
+      1     Store updated
+      1 
+      1 commit 59b5d4c64ce5502751e432af11d669414c6f6f8e
+      1 Author: vsavaliya4009 <61410632+vsavaliya4009@users.noreply.github.com>
+      1 Date:   Thu Feb 27 10:15:39 2020 +0530
+      1 
+      1     Update index.html
+      1 
+      1 commit dc4ee5c553a1611039a78d774b4a561f17d21e9e
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 10:12:56 2020 +0530
+      1 
+      1     After modified index file
+      1 
+      1 commit 07181a776ad14bb1dd7b2d947bc954059b964f5d
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 09:54:57 2020 +0530
+      1 
+      1     Admin panel
+      1 
+      1 commit 3a8d7aa05761072d42e51efa838b0dc386772e00
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 09:42:19 2020 +0530
+      1 
+      1     Commited for all other files
+      1     
+      1     (cherry picked from commit 733dcd3553986ebb1e68f01710673a52131e3483)
+      1 
+      1 commit efa30c83c230547ec17d87c0f8ae292148708733
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 09:51:17 2020 +0530
+      1 
+      1     Also include in dev branch
+      1     
+      1     (cherry picked from commit 647632febe795dccdcbce491c3b02f0898341d8d)
+      1 
+      1 commit 39d60598c852350d0b95af3930acec4df54c1aea
+      1 Author: vsavaliya4009 <vsavaliya4009@gmail.com>
+      1 Date:   Thu Feb 27 09:37:56 2020 +0530
+      1 
+      1     First commit after index file created
